@@ -1,5 +1,5 @@
 {
-  "name": "@core-service-vm/utilities",
+  "name": "core-service-vm",
   "version": "1.0.2",
   "description": "Core code sharable by apps",
   "author": "Victor Muresanu",
