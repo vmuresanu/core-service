@@ -1,10 +1,9 @@
 {
-  "name": "@core-service/modules",
-  "version": "1.0.1",
+  "name": "@core-service-vm/utilities",
+  "version": "1.0.2",
   "description": "Core code sharable by apps",
   "author": "Victor Muresanu",
   "license": "MIT",
-  "readmeFilename": "README.md",
   "main": "dist/test.js",
   "files": [
     "dist/**/*",
@@ -29,9 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vmuresanu/core-service.git"
+    "url": "git+https://github.com/vmuresanu/core-service.git"
   },
-  "bugs": "https://github.com/nestjsplus/nestjs-package-starter",
+  "bugs": {
+    "url": "https://github.com/nestjsplus/nestjs-package-starter"
+  },
   "peerDependencies": {
     "@nestjs/common": "^6.0.0"
   },
@@ -72,5 +73,6 @@
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "homepage": "https://github.com/vmuresanu/core-service#readme"
 }
