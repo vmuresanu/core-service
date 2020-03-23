@@ -1,6 +1,6 @@
 {
   "name": "core-service-vm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Core code sharable by apps",
   "author": "Victor Muresanu",
   "license": "MIT",
